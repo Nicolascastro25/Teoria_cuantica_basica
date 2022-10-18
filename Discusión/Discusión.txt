@@ -1,0 +1,8 @@
+4.5.2 y 4.5.3:
+Teniendo en cuenta que el producto tensorial es asociativo, se puede inferir que cada uno de los vectores V representará un sistema de varios productos tensoriales entre sí , por lo que siguiendo el postulado se toma el conjunto de complejos y se busca su probabilidad en un punto específico dado:
+siendo m = n = 3 con complejos Co,o=...=C3.3=1+i , buscamos la partícula en el punto X1:
+([ [[1,1]],[[1,1]],[[1,1]],[[1,1]],[[1,1]],[[1,1]], [[1,1]],[[1,1]],[[1,1]]])
+Encontramos módulo cuadrado a cada uno de los números complejos del vector
+Luego comprobamos cuál es la probabilidad de encontrar una partícula de posición x1 y otra partícula en posición y1. Con la posición x1 e y1 procedemos a calcular la probabilidad dividiéndola entre la suma de todos los complejos del vector anteriormente.
+En este caso 0.0425
+En términos probabilísticos, esta cantidad es lo suficientemente grande con un valor de 42,5% que ambas partículas están en estas dos posiciones.
